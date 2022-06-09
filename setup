@@ -20,7 +20,7 @@ node(){
 
 
 repo(){
-	git clone https://github.com/ITZ-ZAID/Zaid-Vc-Player &&  cd Zaid-Vc-Player
+	git clone https://github.com/MR-AGORA/AGORA-RAIDMUSIC &&  cd AGORA-RAIDMUSIC
 }
 
 
