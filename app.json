@@ -1,8 +1,8 @@
 {
-    "name": "Zaid Vc Player",
+    "name": "AGORA RAIDMUSIC",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["Zaid", "Zaid-Vc-Player", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
-    "repository": "https://github.com/ITZ-ZAID/Zaid-Vc-Player",
+    "repository": "https://github.com/MR-AGORA/AGORA-RAIDMUSIC",
   "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -12,12 +12,12 @@
         "ASSISTANT_NAME": {
             "description": "fill with your telegram id as the owner of the bot",
             "required": true,
-            "value": "Zaid_assistant"
+            "value": "TEAM AGORA ASSISTANT"
         },
         "BOT_USERNAME": {
             "description": "fill with telegram id of account",
             "required": true,
-            "value": "Zaid2_Robot"
+            "value": "AGORA_ROBOTS"
         },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
@@ -32,17 +32,17 @@
         "GROUP_SUPPORT": {
             "description": "Ur Support Group Username",
             "required": false,
-            "value": "Superior_Support"
+            "value": "TEAM_AGORAt"
         },
         "UPDATES_CHANNEL": {
             "description": "Ur Updates Channel",
             "required": false,
-            "value": "Superior_bots"
+            "value": "AGORA_ROBOTS"
         },
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space).",
             "required": true,
-            "value": "1669178360"
+            "value": "5272015055"
         },
         "DURATION_LIMIT": {
             "description": "filled, don't change this !",
