@@ -9,7 +9,7 @@
 
 🧪 ɢᴇᴛ STRING_SESSION ꜰʀᴏᴍ ʜᴇʀᴇ:
 
-[@genStr_Bot](https://t.me/agora_robots)
+[AGORA SSGEN](https://t.me/agora_ROBOTS)
 
 [![ɢᴇɴᴇʀᴀᴛᴇ ꜱᴇꜱꜱɪᴏɴ](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@BoooCreative/PyroStringSession#main.py)
 ###   
